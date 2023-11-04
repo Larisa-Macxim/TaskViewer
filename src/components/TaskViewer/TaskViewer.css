@@ -1,0 +1,24 @@
+.viewer-container {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  background-color: #eff0f8;
+  width: 1457px;
+  height: 646px;
+  border-radius: 50px;
+  gap: 20px;
+  position: absolute;
+  top: 72px;
+  left: 36px;
+}
+
+h1 {
+  width: 240px;
+  height: 31px;
+  position: absolute;
+  left: 33px;
+  top: -1px;
+  font-weight: normal;
+  font-size: 26px;
+  line-height: 32px;
+}
